@@ -9,6 +9,7 @@ This repo contains a little example of rest api build using typescript and expre
 Instagram: [@arvprincipe](https://www.instagram.com/arvprincipe/) - My favorite place to post & share stories<br>
 Facebook: [@arvprincipe](https://www.facebook.com/arvprincipe) - Catch all my posts & where I announce things<br>
 Linkedin: [@arvprincipe](https://www.linkedin.com/in/arvprincipe/) - My profile to contact<br>
+
 ## Download & Share
 
 Absolutely!! You are welcome to dowload and share my code. . If you've gotten any value from my content and would like to help me reach more people, please do share!
